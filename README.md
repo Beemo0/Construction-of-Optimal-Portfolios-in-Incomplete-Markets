@@ -1,7 +1,6 @@
 # Construction of Optimal Portfolios in Incomplete Markets
 
-**PFE ING3 — CY Tech 2026–2027**
-Supervisors: TBC
+**ING3 — CY Tech 2025–2026 | M222 - Dauphine 2026-2027**
 
 ---
 
